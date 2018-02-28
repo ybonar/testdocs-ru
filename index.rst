@@ -38,7 +38,7 @@ Information about development is also available:
    :caption: User Documentation
 
    getting_started
-   versions
+   about
    builds
    features
    support
