@@ -38,7 +38,7 @@ Information about development is also available:
    :caption: User Documentation
 
    getting_started
-   about
+   about.md
    builds
    features
    support
